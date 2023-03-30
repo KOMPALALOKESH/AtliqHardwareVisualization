@@ -1,1 +1,1 @@
-# AtliqHardwareVisualization
+# Atliq Hardware Analysis
